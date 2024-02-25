@@ -1,6 +1,27 @@
 # Resume-Builder-Wep-App
 This is Resume Builder Web App By AsadShahi that user create any resume in a minute..........
+Resume bulider Web App project 
+✅ نمونه کار....
+✅ Sample Work
 
+Front..
+🔵 React
+🔵 MUI
+🔵 Bootstrap
+🔵 Swipper 
+🔵 Axios
+🔵 Pdf generater
+🔵 API ConText
+🔵....
+ تخصص ام فرانت اند هست..
+
+Back end 
+🔵 Laravel 
+🔵 API
+🔵 MySQL
+
+
+.......................................................
 
 ![Home Page](https://github.com/AsadShahi/Resume-Builder-Wep-App/blob/main/Screenshot%20(24).png?raw=true)
 
@@ -24,6 +45,16 @@ This is Resume Builder Web App By AsadShahi that user create any resume in a min
 ![Skills](https://github.com/AsadShahi/Resume-Builder-Wep-App/blob/main/Screenshot%20(44).png?raw=true)
 
 ![Languages](https://github.com/AsadShahi/Resume-Builder-Wep-App/blob/main/Screenshot%20(45).png?raw=true)
+
+![Mutiple Resume Templates](https://github.com/AsadShahi/Resume-Builder-Wep-App/blob/main/Demo%20Screen%20Shot/Screenshot%20(1).png?raw=true)
+
+![Download Resume](https://github.com/AsadShahi/Resume-Builder-Wep-App/blob/main/Demo%20Screen%20Shot/Screenshot%20(3).png?raw=true)
+
+![Downloaded PDF FIle](https://github.com/AsadShahi/Resume-Builder-Wep-App/blob/main/Demo%20Screen%20Shot/Screenshot%20(4).png?raw=true)
+
+![User Panel](https://github.com/AsadShahi/Resume-Builder-Wep-App/blob/main/Demo%20Screen%20Shot/Screenshot%20(5).png?raw=true)
+
+![Resume In User Panel](https://github.com/AsadShahi/Resume-Builder-Wep-App/blob/main/Demo%20Screen%20Shot/Screenshot%20(6).png?raw=true)
 
 
 
