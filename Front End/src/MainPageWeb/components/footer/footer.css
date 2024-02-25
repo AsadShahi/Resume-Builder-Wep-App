@@ -1,0 +1,43 @@
+.footer {
+  background: linear-gradient(rgba(20, 20, 20, 0.9), rgb(20, 20, 20, 0.5)),
+    url("/public/images/footer-bg-3.jpg") center no-repeat;
+  padding: 50px;
+  background-size: cover;
+  font-family: Roboto-Regular;
+}
+
+a {
+  color: #ffff;
+}
+h1 {
+  color: #ffff;
+}
+
+.social {
+  size: 30px;
+  color: #ffff;
+  z-index: 9999;
+  cursor: pointer;
+}
+.social-fa:hover {
+  color: #3b5998;
+}
+.socail-insta:hover {
+  color: #c13584;
+}
+.social-tel:hover {
+  color: #0088cc;
+}
+.social-you:hover {
+  color: #c4302b;
+}
+
+.btn-email{
+
+  border: 1px solid;
+  border-radius: 5px;
+  background-color: #0088cc;
+  color: #ffff;
+   font-size: 15px;
+   padding: 5px 5px ;
+}

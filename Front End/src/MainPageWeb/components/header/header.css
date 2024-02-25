@@ -1,0 +1,19 @@
+
+
+
+
+@font-face {
+    font-family: Lalezar;
+    src: url(../../../fonts/Lalezar-Regular.ttf);
+}
+
+ 
+
+
+.header-title{
+    color: #0a0000;
+    font-family: Lalezar;
+}
+.headerStyle{
+    margin-top: 2rem;
+}

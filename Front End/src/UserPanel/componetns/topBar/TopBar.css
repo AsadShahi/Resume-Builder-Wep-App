@@ -1,0 +1,67 @@
+.topBar {
+    background-color: aliceblue;
+    /* background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%); */
+  width: 100%;
+  height: 50px;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+.topBarWrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.right_TopBar {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-size: 30px;
+  font-weight: bolder;
+  color: darkblue;
+  cursor: pointer;
+}
+.user-logout{
+}
+.user-logout:hover{
+  text-decoration: none;
+
+}
+
+.logo-span{
+
+  color: var(--secondary) ;
+
+}
+/* profile */
+.topAvatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.topBarIconContainer {
+  position: relative;
+  margin-right: 20px;
+  padding-right:8px;
+  color: #5555;
+  cursor: pointer;
+
+
+}
+.topIconBadge{
+   
+    color: #fff;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    top: -5px;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}

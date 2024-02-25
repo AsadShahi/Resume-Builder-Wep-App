@@ -1,0 +1,16 @@
+.sharif-about{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+.sharif-title{
+    border-bottom:1px solid #ccc;
+}
+.sharif-profile{
+    
+}
+.sharif-heade-profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

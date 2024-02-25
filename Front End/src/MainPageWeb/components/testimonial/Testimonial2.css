@@ -1,0 +1,101 @@
+.testimonial {
+  background-color: #ddeef9;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  
+}
+.user-container {
+  background-color: aliceblue;
+  width: 80%;
+  height: 100%;
+
+}
+.header-card {
+  width: 100%;
+}
+.user-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  justify-content: flex-start;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding-left: 2.5rem;
+}
+.underline {
+  height: 6px;
+  width: 250px;
+  border-radius: 12px;
+  background-color: #21c17a;
+}
+.userCardList {
+  display: flex;
+}
+
+figure {
+  margin-left: 0;
+  left: 0;
+}
+
+.user-img {
+  width: 130px;
+  height: 150px;
+  border-radius: 10px;
+}
+
+/* usercard */
+.userCard {
+  display: flex;
+   height: 400px;
+   overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  margin: 2rem;
+  background-color: #fff;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  transition: all 0.3s ease-in-out;
+}
+
+/* header card */
+
+.userRole {
+  margin-left: 10px;
+  padding: 2rem;
+}
+.user-card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.divider {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem auto;
+}
+.box-line-divider + span {
+  font-size: 32px;
+  color: var(--primary);
+}
+
+.box-line-divider {
+  width: 40px;
+  height: 6px;
+}
+
+.userDescription {
+
+  width: 100%;
+  padding: 1.5rem;
+}
+.expand-description {
+  cursor: pointer;
+}

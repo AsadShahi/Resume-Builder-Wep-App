@@ -1,0 +1,15 @@
+.slider-img{
+    width: 800px;
+    height: 400;
+    overflow: hidden;
+}
+img{
+    overflow: hidden;
+}
+.carosusel{
+    border-radius: 10px;
+}
+.rounded-carousel .carousel-inner,
+.rounded-carousel .carousel-item {
+    border-radius: 10px;
+}

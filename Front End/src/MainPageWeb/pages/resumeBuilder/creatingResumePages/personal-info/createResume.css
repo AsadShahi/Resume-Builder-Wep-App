@@ -1,0 +1,100 @@
+
+.input-form{
+
+   
+       
+}
+.CreateResume{
+    padding: 4rem;
+}
+.education{
+    flex-wrap: nowrap;
+
+    align-items: center;
+    border-radius: 10px;
+    border: 1px solid #cccc;
+    
+    align-items: center;
+    justify-content: center;
+}
+
+.additionalDetails{
+    
+    visibility: hidden;
+    transition: all 3s ease-out;
+}
+
+.additionalDetails.active{
+    visibility: visible;
+}
+.btn-more{
+    font-weight: bold;
+    transition: all 1s ease-out ;
+}
+.ed-btn{
+    background-color:rgb(239, 242, 249) ;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+    margin-left: 10px;
+    width: 65%;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+.link{
+   margin-top: 20px;
+    
+}
+
+.link p{
+
+    white-space: nowrap;
+    
+     font-size: 20px;
+    margin-top: 10px;
+    
+}
+
+.avatar{
+    margin-top: 18px;
+    
+}
+.avatar-photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+}
+.mainRow{
+   display: flex;
+      justify-content: space-between;
+}
+.first-col{
+  
+}
+.first-section{
+    
+}
+
+textarea {
+    background-color: rgb(239, 242, 249);
+  
+   }
+
+   .fade-enter {
+    opacity: 0;
+    }
+    .fade-enter-active {
+    opacity: 1;
+    transition: opacity 300ms ease-in-out;
+    }
+    .fade-exit {
+    opacity: 1;
+    }
+    .fade-exit-active {
+    opacity: 0;
+    transition: opacity 300ms ease-in-out;
+    }
+   

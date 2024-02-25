@@ -1,0 +1,147 @@
+.type {
+ 
+ 
+   background: linear-gradient(315deg, #0161CD 0%, #202095 100%);
+  
+  
+
+  color: #fff;
+  position: sticky;
+  font-weight: bold;
+  padding: 10px;
+  margin: 0 auto;
+  
+  /* box-shadow: 5px 5px 1px rgba(0, 10, 1.0, 10); */
+  box-sizing: border-box;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+
+.progresses {
+  display: flex;
+  flex-direction: column;
+}
+.progress-line-first {
+  margin-top: 0;
+  height: 4px;
+  width: 100%;
+  border-radius: 12px;
+  background-color: #e4cece;
+  position: relative;
+}
+.progress-line-second {
+  
+  position: absolute;
+ 
+  height: 4px;
+  border-radius: 10px;
+  background-color: var(--primary);
+}
+.progress-num {
+  margin-top: 1px;
+  padding: 3px;
+  border-radius: 5px;
+  background-color: #21c17a;
+  color: #fff;
+}
+
+.showProgress:active.progress-num {
+  width: 30%;
+}
+
+.personal {
+
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5f5f5;
+
+
+
+  padding: 0;
+  margin: 0;
+}
+.forms-pers {
+  width: 100%;
+  padding: 2rem;
+  margin-top: 1.5rem;
+  background-color: #fdfdfc;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 8px 16px 0 rgba(69, 123, 157, 0.2);
+}
+
+.card-content-forms {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.forms-pers {
+}
+.btn-pers {
+  margin-left: 1rem;
+}
+
+.avatar-photo {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+.avatar-pers {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.avatar-selected{
+  width: 70px;
+  height: 70px;
+  margin-right: 5px;
+  border-radius: 10px;
+  border: 1px solid #00538c;
+  
+}
+.about-persRow {
+  margin-left: 2rem;
+}
+.pers-btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.contact {
+  /* margin: 0 auto !important;
+    border: 1px solid red; */
+}
+.contact-card {
+}
+.btn-span-education {
+  padding: 12px 12px;
+
+  font-size: large;
+  background-color: rgb(118, 118, 123);
+  margin-top: 2px;
+}
+.btn-span-education Button {
+  margin-top: 1px;
+}
+
+
+/* back round */
+.bg-backround-forms{
+  
+ height: 100vh;
+ /* background-color: #e3f2fd; */
+
+ background: linear-gradient(
+   90deg,
+   rgba(146, 205, 250, 0.4) 0%,
+   rgba(199, 235, 255, 0.4) 100%
+ ) ;
+}

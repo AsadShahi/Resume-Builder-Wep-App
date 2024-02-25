@@ -1,0 +1,23 @@
+.adminpage {
+  
+}
+* {
+  /* font-family: "Source Sans Pro", sans-serif; */
+  margin: 0;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.admin-right-section{
+  border-radius: 10px;
+  box-shadow: 0 8px 16px 0 rgba(69, 123, 157, 0.2);
+  background: linear-gradient(
+    90deg,
+    rgba(146, 205, 250, 0.4) 0%,
+    rgba(199, 235, 255, 0.4) 100%
+  ) ;
+  margin-bottom: 3rem;
+}

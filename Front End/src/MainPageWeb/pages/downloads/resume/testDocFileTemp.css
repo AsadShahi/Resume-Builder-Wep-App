@@ -1,0 +1,13 @@
+@media print {
+    /* Add styles for the printed document */
+    body {
+      transform: none !important;
+      width: auto !important;
+      height: auto !important;
+      overflow: visible !important;
+      position: static !important;
+       page-break-after: avoid !important;
+    }
+    
+    /* Add any other necessary styles for the printed document */
+  }

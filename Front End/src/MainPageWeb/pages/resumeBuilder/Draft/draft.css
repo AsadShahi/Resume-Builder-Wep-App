@@ -1,0 +1,19 @@
+.mainDraft{
+    width: 95%;
+    
+}
+.wrapper-class {
+  padding: 1rem;
+  border-radius: 5px;
+  border: 1px solid rgb(239, 242, 249);
+}
+.editor-class {
+  background-color:rgb(239, 242, 249);
+  padding: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+.toolbar-class {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}

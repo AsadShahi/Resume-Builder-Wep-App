@@ -1,0 +1,61 @@
+
+@font-face {
+    font-family: Lalezar;
+    src: url(./fonts/Lalezar-Regular.ttf);
+}
+
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(./fonts/Roboto-Regular_93.woff);
+}
+
+:root {
+    --white: #ffffff;
+    --white-50: #f0f0f0;
+ 
+}
+
+body {
+    background-color: var(--white-50);
+}
+
+
+
+
+:root{
+ --primary: #0d6efd;
+ --blue: #471AAA;
+ --secondary:#0099c8;
+}
+.modal-parent{
+   
+    background-color: rgba(0, 0, 0, 0.5);
+     position: fixed; 
+     top: 50%;
+     left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 1;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.4s;
+
+
+
+}
+.modal-parent.active{
+    opacity: 1;
+    visibility: visible;
+
+}
+a{
+    text-decoration: none !important;
+}
+a:hover{
+    text-decoration:underline !important;
+    text-decoration-color: var(--secondary) !important;
+  }

@@ -1,0 +1,18 @@
+.lang-for-test{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 2rem;
+    
+}
+.lang-testing{
+    margin-right: 3rem;
+}
+
+.lang-level-testing
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

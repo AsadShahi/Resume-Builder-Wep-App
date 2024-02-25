@@ -1,0 +1,15 @@
+.foud-us{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.maps{
+    width: 100%;
+    border-radius: 10px;
+}
+.map-title{
+    color: var(--primary);
+    margin-bottom: 1.5rem;
+    border-bottom: 2px solid var(--primary);
+}

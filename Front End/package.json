@@ -1,0 +1,89 @@
+{
+  "name": "sabzlearn-react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/joy": "^5.0.0-alpha.82",
+    "@mui/material": "^5.13.3",
+    "@mui/system": "^5.13.2",
+    "@mui/utils": "^5.14.8",
+    "@react-pdf/renderer": "^3.1.12",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.1",
+    "docx": "^8.2.2",
+    "docx-react": "^1.0.6",
+    "docx-templates": "^4.11.3",
+    "docxtemplater": "^3.37.12",
+    "draft-js": "^0.11.7",
+    "file-saver": "^2.0.5",
+    "fontawesome": "^5.6.3",
+    "formik": "^2.4.1",
+    "highlighted-code": "^0.3.7",
+    "html-docx-js": "^0.3.1",
+    "html2canvas": "^1.4.1",
+    "html2pdf.js": "^0.10.1",
+    "i18next": "^23.2.7",
+    "i18next-browser-languagedetector": "^7.1.0",
+    "i18next-http-backend": "^2.2.1",
+    "iconsax-react": "^0.0.8",
+    "jspdf": "^2.5.1",
+    "jspdf-html2canvas": "^1.4.9",
+    "jss-rtl": "^0.3.0",
+    "mammoth": "^1.6.0",
+    "path-browserify": "^1.0.1",
+    "pdfkit": "^0.13.0",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.7.4",
+    "react-docx": "^1.0.1",
+    "react-dom": "^18.1.0",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-i18next": "^13.0.1",
+    "react-icons": "^4.9.0",
+    "react-pdf": "^7.3.3",
+    "react-router-dom": "^6.11.2",
+    "react-script": "^2.0.5",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.29.0",
+    "react-summernote": "^2.0.2",
+    "rechart": "^0.0.1",
+    "recharts": "^2.7.3",
+    "rtl": "^0.1.18",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^9.4.1",
+    "util": "^0.12.5",
+    "uuid": "^8.3.2",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

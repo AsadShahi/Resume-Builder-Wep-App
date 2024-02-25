@@ -1,0 +1,10 @@
+.amin-template-younos{
+    margin-top: 1rem;
+}
+.younos-profile-info{
+
+     margin:0 0.5rem;
+    /* border:1px solid var(--primary); */
+    border-bottom: none;
+    border-radius: 5px;
+}

@@ -1,0 +1,79 @@
+.templates-sample {
+    background-color: #ddeef9;
+    font-family: "Euclid Circular B", sans-serif;
+  }
+  .temp-desc {
+    width: 80%;
+    white-space: pre-wrap;
+  }
+  
+  .resume-temps {
+      display: flex;
+      align-items: center;
+      margin-bottom: 1rem;
+      justify-content: center;
+      background-color: #f5f5f5;
+      cursor: pointer;
+      
+      box-shadow: 0 8px 16px 0 rgba(69, 123, 157, 0.2);
+      transition: all 0.3s ease;
+      position: relative;
+      border-radius: 10px;
+  }
+  .btn-select {
+    font-weight: bold;
+    border-radius: .5rem;
+    padding: 0.5rem;
+    background-color: #ddeef9;
+    position: absolute;
+    text-decoration: none;
+  
+  }
+
+  /* it is for asad cv btn */
+  .asad-cv-choose
+  {
+    
+    position: absolute;
+    top: 45%;
+    right: 50%;
+    left: 36%;
+    bottom: 50%;
+    width:100px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    height: 35px;
+
+    background-color: #61efd5;
+   
+    
+
+  }
+  .resume-temps:hover {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+  
+  }
+  .resume-temps img {
+    margin: 1rem;
+  }
+  
+  .ahmad-cv-btn-temp{
+   
+    top: 45%;
+    right: 50%;
+    left: 36%;
+    bottom: 50%;
+    width:100px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    height: 35px;
+
+    background-color: #61efd5;
+  }

@@ -1,0 +1,146 @@
+.amin-temp-parent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  margin-top: 5rem;
+}
+
+.amin-template {
+  min-width: 36rem;
+  display: flex;
+  align-items: center;
+  max-width: 70rem;
+  border: 1px solid var(--primary);
+  border-radius: 10px;
+  justify-self: center;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Roboto-Regular;
+}
+.amin-temp-img {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.amin-avatar {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  border: 3px solid var(--primary);
+}
+
+.amin-left {
+  /* height: 170vh; */
+  background-color: #e8d8d8;
+  
+  padding: 0 0.8rem;
+}
+.amin-contact {
+  text-align: start;
+  flex-direction: column;
+  display: flex;
+  overflow: hidden;
+
+}
+.skill-lever-order {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.profile-amin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.skills {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.intrests-amin {
+  text-align: start;
+}
+
+.amin-title-section {
+  display: flex;
+  border-bottom: 1px solid;
+  width: 100%;
+}
+/* about me */
+.amin-about-me {
+  text-align: start;
+}
+/* Experience....... */
+.amin-experience-title {
+  border-bottom: 1px solid;
+}
+.amin-exp-titile {
+  margin-right: 0;
+  display: flex;
+  align-items: flex-start;
+}
+
+.amin-exp-title {
+  display: flex;
+  align-items: flex-start;
+  justify-content: left;
+}
+
+.amin-template-experience {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: start;
+}
+.amin-socials {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 6rem;
+}
+
+.amin-temp-follow-Me {
+  display: flex;
+  align-items: flex-start;
+  text-align: left;
+  justify-content: space-evenly;
+}
+
+/* amin rignt  */
+.amin-right-temp{
+
+}
+
+.amin-btn-downloads{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* for icons */
+
+
+.amin-title-icon{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: #ccc;
+  border-radius: 50%;
+  padding: 5px;
+  margin-right: 1rem;
+  
+
+}
+.amin-left-icons{
+  font-size: 40px;
+  margin-right: .5rem;
+}

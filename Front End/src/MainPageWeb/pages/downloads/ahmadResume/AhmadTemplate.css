@@ -1,0 +1,204 @@
+.ahmad-temp{
+  margin-bottom: 1rem;
+  background-color: var(--white-50);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+
+}
+.main-ahmad-resume-temp{
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+  
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  background-color:  #e3f2fd;
+  
+  border: 1px solid #ccc;
+ 
+  padding-bottom: 1rem;
+  border-radius: 5px;
+  
+}
+  .logo-section,
+  .heading-section {
+    width: 48%;
+    height: 40vh;
+    padding: 0 1% 2% 2%;
+   
+    float: left;
+    position: relative;
+  }
+  .heading-section{
+    padding-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #back-div {
+    width: 25%;
+    height: 60%;
+    background-color: #66522e;
+    margin-left: 12%;
+  }
+  .profile-section{
+
+    background-color: red !;
+  }
+  .logo-section img {
+    width: 40%;
+    height: 60%;
+    background-color: rgb(102, 82, 46);
+    border-radius: 50%;
+    border: 17px solid rgb(102, 82, 46);
+    position: absolute;
+    top: 20%;
+    left: 7%;
+  }
+  
+  .heading-section h1 {
+    margin-top: 40%;
+    font-size: 3.5rem;
+    margin-bottom: 35px;
+  }
+  
+  .heading-section h1,
+  h2,
+  .h22 {
+
+    
+  }
+  .ahmad-title{
+    text-transform: uppercase;
+  }
+  .ahmad-title::after {
+    display: block;
+    content: " ";
+    width: 100%;
+    height: 2px;
+    background-color:rgb(131, 106, 61);
+    margin: 15px 0;
+  }
+
+  .heading-section .h22 {
+    font-size: 2rem;
+    font-weight: 100;
+    margin-bottom: 10px;
+    color: rgb(131, 106, 61);
+  }
+  
+  .heading-section p {
+    color: rgb(148, 119, 64);
+    margin-top: 35px;
+    font-size: 1rem;
+    line-height: 2rem;
+  }
+  
+  .row-2 {
+   
+    background-color: rgb(223, 206, 161);
+    color: rgb(102, 82, 46);
+    margin: auto;
+    clear: both;
+  }
+  
+  .col-1-of-row2,
+  .col-2-of-row2 {
+    
+    width: 50%;
+    padding: 0 4%;
+    float: left;
+   
+  }
+  
+  .col-2-of-row2 {
+    clear: right;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  #social-ul {
+    
+  }
+  
+  #social-ul li {
+    margin-bottom: 30px;
+    font-size: 18px;
+    margin-left: 20px;
+  }
+  
+  #social-ul li i {
+    margin-right: 10px;
+  }
+  
+  .work-h {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .yeardiv {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .col-2-of-row2 p {
+    margin-bottom: 20px;
+  }
+  
+  .language-ul {
+    margin: 30px auto 34px;
+    text-align: center;
+  }
+  
+  .language-ul li,
+  .inter-ul li {
+    margin-bottom: 10px;
+  }
+  
+  .tbl {
+
+    width: 70%;
+    margin: 20px auto;
+  }
+
+  .tbl-skill{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  
+  .tbl tr td {
+    height: 30px;
+  }
+  
+  .edu-header {
+    text-align: center;
+    font-size: 22px;
+    color: rgb(95, 74, 36);
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  
+  .edu-p {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .inter-ul {
+    margin: 75px auto;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  .sec-1-2 {
+  
+  }
+  

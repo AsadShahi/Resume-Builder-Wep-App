@@ -1,0 +1,43 @@
+* {
+  
+    margin: 0;
+  }
+.userPanelDash{
+  display: flex;
+    align-items: center;
+    margin-top: 10px;
+ 
+    width: 100%;
+   
+}
+.left-userpanel{
+  width: 20%;
+
+}
+.right-userpanel{
+  display: flex;
+
+  justify-content: center;
+  height: 100vh;
+ 
+  
+}
+  
+
+  
+  .link {
+    text-decoration: none;
+    color: inherit;
+  }
+
+
+  .user-panel-right-section{
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(69, 123, 157, 0.2);
+    background: linear-gradient(
+      90deg,
+      rgba(146, 205, 250, 0.4) 0%,
+      rgba(199, 235, 255, 0.4) 100%
+    ) ;
+    margin-bottom: 3rem;
+  }

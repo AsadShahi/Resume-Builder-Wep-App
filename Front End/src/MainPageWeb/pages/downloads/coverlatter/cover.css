@@ -1,0 +1,14 @@
+
+.personal h2{
+    text-align: center;
+    font-size: 18;
+}
+.personal ul{
+    list-style-type: none;
+    text-align: center;
+}
+.cover-letter{
+    border-radius: 5px;
+    border: 1px solid ;
+    padding: 2rem;
+}

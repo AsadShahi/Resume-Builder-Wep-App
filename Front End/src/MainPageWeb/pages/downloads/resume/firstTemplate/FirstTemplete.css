@@ -1,0 +1,151 @@
+body {
+    margin: 0px;
+    padding: 0px;
+  
+    font-family: system-ui;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.main {
+   
+    width: 800px;
+    background-color: white;
+    box-shadow: 5px 7px 15px 5px #b9b6b6;
+    margin: 20px auto;
+    color: black;
+   
+}
+.content-box li{
+    
+    
+}
+.top-section {
+    background-color: var(--secondary);
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    
+}
+
+.profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.p1 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.p1 span {
+    font-weight: 100x;
+    color: #fff;
+}
+
+.p2 {
+    font-size: 20px;
+    color: #c7c7c7;
+    margin: 0px;
+    margin-top: 10px;
+}
+
+.col-div-4 {
+    width: 35%;
+    float: left;
+}
+
+.col-div-8 {
+    width: 62%;
+    float: left;
+}
+
+.line {
+    border-left: 1px solid #c7c7c7;
+   
+    width: 2%;
+    margin-top: 30px;
+    float: left;
+}
+
+.content-box {
+    padding: 20px;
+}
+
+.head {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.p3 {
+    margin-bottom: -5px;
+}
+
+.fa {
+    color: #151b29;
+}
+
+.skills {
+    margin-left: -20px;
+    margin-bottom: 0px;
+}
+
+.skills li {
+    padding: 5px;
+}
+
+/* Second Template CSS Code  */
+.peronsal-information ul {
+    list-style-type: none;
+
+}
+
+.peronsal-information ul li {
+    list-style-type: none;
+    display: flex;
+
+}
+
+.btn-first-template,.btn-second-template {
+   display: inline-block;
+   margin: 0 auto;
+}
+/* Second Template Source Code  */
+.peronsal-info{
+    background-color: rgb(189, 187, 187);
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.peronsal-info h3{
+    text-align: center;
+}
+.peronsal-info ul li{
+    display: inline-block;
+    margin-left: 20px;
+    font-style: italic;
+}
+.peronsal-info{
+    text-align: center;
+    padding: 10px;
+}
+.experience-second-template{
+    padding: 5px;
+}
+.experience-second-template {
+
+}
+.experience-second-template{
+    
+}
+.btn-second-template Button{
+    padding: 14px 50px;
+}
+.main-second-page{
+    margin-top: 10px;
+}

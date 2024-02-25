@@ -1,0 +1,27 @@
+.contact{
+    background-color:#eff2f9;
+    box-shadow: 0 8px 16px 0 rgba(69, 123, 157, 0.2);
+}
+.contact-container{
+    padding: 3rem;
+}
+
+.contact-form{
+    border: 0;
+
+    border-radius: 5px;
+
+    background-color: #fff;
+}
+.first-column{
+    display: flex;
+    flex-direction: column;
+}
+.contact-text-area Textarea {
+/* border-radius: 2rem;
+background-color: bisque; */
+}
+
+.contact-title{
+    color:var(--primary);
+}

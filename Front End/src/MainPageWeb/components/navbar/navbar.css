@@ -1,0 +1,31 @@
+.navbar{
+   box-sizing: border-box;
+   position: fixed !important;
+   top: 0;
+   width: 100%;
+   z-index: 9999;
+   transition:backround .2s ease-out;
+   padding: 0 3rem 0 2.6rem;
+   box-shadow: 0 1px 5px 0 rgb(0, 0, 0.25);
+
+ 
+ }
+ .rtl {
+    direction: rtl;
+  }
+ .titleName{
+    font-weight: bold;
+    color: var(--primary) !important;
+    
+    
+ }
+
+
+.btns{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.btn-login{
+    margin-right: 20px;
+}
